@@ -1,2 +1,2 @@
-Basic C Calculator
+Basic C Calculator\
 Expect more updates regarding this repository
